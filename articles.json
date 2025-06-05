@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Tutorial Mismatches: Investigating the Frictions due to Interface Differences when Following Software Video Tutorials ",
+        "authors": [
+            "rperraud", "atabard", "smalacria"
+        ],
+        "venue": "Proceedings of 2024 ACM Design for Interactive Systems (DIS)",
+        "links": {
+            "pdf": "https://hal.science/hal-04570989v1",
+            "doi": "https://dl.acm.org/doi/10.1145/3643834.3661511"
+        }
+    },
+    {
+        "title": "Adaptability of software tutorials to user interfaces (Best Student Poster Award)",
+        "authors": [
+            "rperraud"
+        ],
+        "venue": "IHM'24-35e Conférence Internationale Francophone sur l'Interaction Humain-Machine",
+        "links": {
+            "pdf": "https://hal.science/hal-04490515/document"
+        }
+    }
+]
